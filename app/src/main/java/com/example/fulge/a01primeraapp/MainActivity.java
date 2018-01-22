@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int edad = 3;
+        int edad = 7;
         int hola = 4;
         int coche = 5;
         int prueba = 6;
