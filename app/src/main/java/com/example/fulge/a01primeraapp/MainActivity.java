@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         int hola = 4;
         int coche = 5;
         int prueba = 6;
+        int github = 7;
     } //FIN MAIN ACTIVITY;
 }
