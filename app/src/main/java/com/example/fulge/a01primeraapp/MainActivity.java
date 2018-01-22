@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int edad = 3;
         int hola = 4;
+        int coche = 5;
     } //FIN ONCREATE
     // Prueba de cosas
 } //FIN MAIN ACTIVITY
