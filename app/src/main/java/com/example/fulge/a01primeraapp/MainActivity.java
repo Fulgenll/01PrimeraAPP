@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         int coche = 5;
         int prueba = 6;
         int github = 7;
-        string nombre = "Juan"
+        string nombre = "Juan";
     } //FIN MAIN ACTIVITY;
 }
